@@ -1,0 +1,16 @@
+C:\Users\jakub\source\repos\FurnitureBoard\bin\Debug\net5.0\FurnitureBoard.exe
+C:\Users\jakub\source\repos\FurnitureBoard\bin\Debug\net5.0\FurnitureBoard.deps.json
+C:\Users\jakub\source\repos\FurnitureBoard\bin\Debug\net5.0\FurnitureBoard.runtimeconfig.json
+C:\Users\jakub\source\repos\FurnitureBoard\bin\Debug\net5.0\FurnitureBoard.runtimeconfig.dev.json
+C:\Users\jakub\source\repos\FurnitureBoard\bin\Debug\net5.0\FurnitureBoard.dll
+C:\Users\jakub\source\repos\FurnitureBoard\bin\Debug\net5.0\FurnitureBoard.pdb
+C:\Users\jakub\source\repos\FurnitureBoard\obj\Debug\net5.0\FurnitureBoard.csproj.AssemblyReference.cache
+C:\Users\jakub\source\repos\FurnitureBoard\obj\Debug\net5.0\FurnitureBoard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakub\source\repos\FurnitureBoard\obj\Debug\net5.0\FurnitureBoard.AssemblyInfoInputs.cache
+C:\Users\jakub\source\repos\FurnitureBoard\obj\Debug\net5.0\FurnitureBoard.AssemblyInfo.cs
+C:\Users\jakub\source\repos\FurnitureBoard\obj\Debug\net5.0\FurnitureBoard.csproj.CoreCompileInputs.cache
+C:\Users\jakub\source\repos\FurnitureBoard\obj\Debug\net5.0\FurnitureBoard.dll
+C:\Users\jakub\source\repos\FurnitureBoard\obj\Debug\net5.0\refint\FurnitureBoard.dll
+C:\Users\jakub\source\repos\FurnitureBoard\obj\Debug\net5.0\FurnitureBoard.pdb
+C:\Users\jakub\source\repos\FurnitureBoard\obj\Debug\net5.0\FurnitureBoard.genruntimeconfig.cache
+C:\Users\jakub\source\repos\FurnitureBoard\obj\Debug\net5.0\ref\FurnitureBoard.dll
